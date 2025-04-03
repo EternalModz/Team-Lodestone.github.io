@@ -1,0 +1,198 @@
+{
+  "credits": {
+    "assets": {
+      "external": {
+        "html": "部分圖標來自 <a href='https://icons.getbootstrap.com/' class='button'>Bootstrap Icons</a> 和 <a href='https://fontawesome.com' class='button'>FontAwesome</a>"
+      },
+      "nikstudios": {
+        "li-1": "創建了 Project Lodestone 的標誌與素材"
+      },
+      "title": "素材來源"
+    },
+    "repoContributors": {
+      "button": {
+        "image": {
+          "alt": "儲存庫貢獻者"
+        },
+        "title": "儲存庫貢獻者"
+      },
+      "title": "儲存庫貢獻者"
+    },
+    "title": "致謝名單",
+    "translations": {
+      "title": "翻譯貢獻"
+    },
+    "website": {
+      "dexrnzacattack": {
+        "li-1": "使用 Svelte 重寫",
+        "li-2": "實現網站本地化",
+        "li-3": "設計主題",
+        "li-4": "重新設計部分網站內容"
+      },
+      "eternalmodz": {
+        "li-1": "設計初始網站",
+        "li-2": "設計基礎佈局架構",
+        "li-3": "協助螢幕閱讀器與無障礙功能測試"
+      },
+      "title": "網站開發"
+    }
+  },
+  "footer": {
+    "buttons": {
+      "openCredits": {
+        "text": "致謝",
+        "title": "查看讓此網站成型的貢獻者名單"
+      },
+      "openSource": {
+        "text": "查看原始碼",
+        "title": "查看網站原始碼"
+      },
+      "openTeam": {
+        "text": "團隊成員",
+        "title": "查看團隊成員"
+      }
+    },
+    "notice": "Project Lodestone 並非官方 Minecraft 產品。"
+  },
+  "home": {
+    "buttons": {
+      "openDiscord": {
+        "ariaLabel": "加入 Discord",
+        "text": "",
+        "title": "加入我們的 Discord"
+      },
+      "openDocumentation": {
+        "ariaLabel": "",
+        "text": "了解更多",
+        "title": "開啟說明文件"
+      },
+      "openLodestone": {
+        "ariaLabel": "",
+        "text": "啟動 Project Lodestone",
+        "title": "啟動 Project Lodestone（當前版本尚未發布，仍在開發中）",
+        "tooltip": "當前版本尚未發布，仍在開發中"
+      }
+    },
+    "info": {
+      "description": "首個開源、全功能的 Minecraft 工具，兼容幾乎所有平台、版本與發行版，由社群為社群打造。",
+      "header": "編輯、轉換與改造 Minecraft 世界。",
+      "name": "Project Lodestone"
+    },
+    "infoBoxes": {
+      "accessible": {
+        "alt": "無障礙圖標",
+        "description": "無障礙性是重要核心。\n螢幕閱讀器支援與適當的顯示縮放等功能，能讓更多人使用 Lodestone。",
+        "title": "無障礙設計"
+      },
+      "compatible": {
+        "alt": "勾選圖標",
+        "description": "支援幾乎所有 Minecraft 版本與發行版。\n例如：您可以將 Minecraft Classic 0.30-c 的世界轉換至 Minecraft: Xbox 360 Edition 使用。",
+        "title": "廣泛兼容"
+      },
+      "editEverything": {
+        "alt": "檔案圖標",
+        "description": "支援 NBT*、SNBT*、MCR/MCA*、MCS、ARC*、LOC*、PCK*、VDB/CDB*、FUI* 等多種格式。\n\n*當前版本尚未支援，請查看「了解更多」獲取進度。",
+        "title": "編輯所有 Minecraft 檔案類型"
+      },
+      "fullControl": {
+        "alt": "地球圖標",
+        "description": "您可以編輯玩家資料、獲取物品（包含部分無法正常獲得的物品）、在箱子放置物品、編輯實體與方塊資料等！\n\n註：此功能在工具開發期間非優先事項。",
+        "title": "完整掌控您的世界"
+      },
+      "header": "功能特色",
+      "localized": {
+        "alt": "翻譯圖標",
+        "description": "支援本地化至任何語言，讓全球使用者都能使用 Project Lodestone。\n\n想協助翻譯？請查看 GitHub 儲存庫中的 CONTRIBUTING.md 文件了解參與方式。",
+        "title": "多語言支援"
+      },
+      "worksEverywhere": {
+        "alt": "地圖圖標",
+        "description": "作為網頁應用運作，意味著任何具備現代瀏覽器與網路連線的裝置都能使用 Project Lodestone。（甚至可離線使用，透過 PWA 技術）",
+        "title": "「隨處」可用"
+      }
+    },
+    "supportedEditions": {
+      "3DS": {
+        "alt": "方向鍵圖標",
+        "title": "New Nintendo 3DS 版"
+      },
+      "BE": {
+        "alt": "手機圖標",
+        "title": "基岩版/攜帶版"
+      },
+      "JE": {
+        "alt": "電腦圖標",
+        "title": "Java 版"
+      },
+      "LCE": {
+        "alt": "遊戲手把圖標",
+        "title": "舊世代主機版"
+      },
+      "PI": {
+        "alt": "樹莓派標誌",
+        "title": "樹莓派版"
+      },
+      "header": "支援版本"
+    }
+  },
+  "languageDialog": {
+    "buttons": {
+      "ok": {
+        "text": "確定"
+      }
+    },
+    "dropDownBox": {
+      "header": "選擇語言",
+      "title": "選擇語言"
+    },
+    "title": "語言選項"
+  },
+  "languages": {
+    "ar": "阿拉伯文",
+    "browserLanguage": "使用瀏覽器語言",
+    "ckb": "中庫爾德語",
+    "en-US": "英文（美國）",
+    "fr": "法文",
+    "ja": "日文",
+    "kmr": "北庫爾德語",
+    "ru": "俄文"
+  },
+  "topbar": {
+    "buttons": {
+      "openDiscord": {
+        "ariaLabel": "加入 Discord",
+        "text": "加入 Discord",
+        "title": "加入 Discord"
+      },
+      "openDocumentation": {
+        "ariaLabel": "開啟 Project Lodestone 說明文件",
+        "text": "開啟說明文件",
+        "title": "開啟 Project Lodestone 說明文件與各版本 Minecraft 技術資訊"
+      },
+      "openGitHub": {
+        "ariaLabel": "查看 GitHub",
+        "text": "查看 GitHub",
+        "title": "前往 Project Lodestone 的 GitHub"
+      },
+      "openLanguageDialog": {
+        "ariaLabel": "選擇語言",
+        "text": "選擇語言",
+        "title": "選擇語言"
+      },
+      "openLodestone": {
+        "ariaLabel": "",
+        "text": "啟動 Project Lodestone",
+        "title": "啟動 Project Lodestone（當前版本尚未發布，仍在開發中）"
+      }
+    }
+  },
+  "LodestoneUI": {
+    "Topbar": {
+      "homeButton": {
+        "logo": {
+          "alt": "Lodestone 標誌（小寫 L）"
+        }
+      }
+    }
+  }
+}
